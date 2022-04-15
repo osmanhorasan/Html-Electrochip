@@ -1,2 +1,2 @@
-# Web-Tasar-m
+# Web-Tasarim
 Web Tasarım Projeleri
